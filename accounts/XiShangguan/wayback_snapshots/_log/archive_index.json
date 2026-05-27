@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-05-27T03:09:21",
+  "last_updated": "2026-05-27T03:10:11",
   "html": {
     "https://web.archive.org/web/20250319125232if_/https://twitter.com/XiShangguan/status/1902342423717794102": {
       "status": "done",
@@ -12425,9 +12425,9 @@
       "referenced_by": [
         "20260410034359_twitter_com_XiShangguan_status_2042448481990951015.json"
       ],
-      "last_updated": "2026-05-27T02:00:58",
+      "last_updated": "2026-05-27T03:09:42",
       "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260410034359/https://video.twimg.com/amplify_video/2042398238037458944/vid/avc1/790x720/D4XhtNG0wEWYbymZ.mp4?tag=14",
-      "miss_count": 1
+      "miss_count": 2
     },
     "https://video.twimg.com/ext_tw_video/2043186019944779776/pu/vid/avc1/582x1280/a1zfrNHfeDYn6ehd.mp4?tag=12": {
       "status": "done",
@@ -12441,9 +12441,9 @@
       "referenced_by": [
         "20260417090510_twitter_com_XiShangguan_status_2045066023829897622.json"
       ],
-      "last_updated": "2026-05-27T02:15:02",
+      "last_updated": "2026-05-27T03:09:45",
       "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260417090510/https://video.twimg.com/amplify_video/2044985968604893184/vid/avc1/720x1588/WNeXn8BhjlK9SvFp.mp4?tag=14",
-      "miss_count": 2
+      "miss_count": 3
     },
     "https://video.twimg.com/ext_tw_video/2044766218947850240/pu/vid/avc1/362x556/bQqPjlkIDJlZaQG4.mp4": {
       "status": "done",
@@ -12460,13 +12460,13 @@
       "last_updated": "2026-05-27T02:00:58"
     },
     "https://video.twimg.com/ext_tw_video/2045763262961360896/pu/vid/avc1/720x1280/fmArYkKH1Gom15Tm.mp4?tag=12": {
-      "status": "failed_all",
+      "status": "failed",
       "referenced_by": [
         "20260419082945_twitter_com_XiShangguan_status_2045781886870659433.json"
       ],
-      "last_updated": "2026-05-27T02:15:01",
-      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260419082945/https://video.twimg.com/ext_tw_video/2045763262961360896/pu/vid/avc1/720x1280/fmArYkKH1Gom15Tm.mp4?tag=12",
-      "miss_count": 2
+      "last_updated": "2026-05-27T03:09:59",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260419082945/https://video.twimg.com/ext_tw_video/2045763262961360896/pu/vid/avc1/720x1280/fmArYkKH1Gom15Tm.mp4?tag=12 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f1c3dc2efc0>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 3
     },
     "https://video.twimg.com/amplify_video/2046036086070407168/vid/avc1/720x1280/EmLu8MyAWbqcgw90.mp4": {
       "status": "done",
@@ -12492,13 +12492,13 @@
       "last_updated": "2026-05-27T02:01:05"
     },
     "https://video.twimg.com/amplify_video/2053065996181909504/vid/avc1/714x1280/eTrjZns-nFPooRwJ.mp4": {
-      "status": "failed_all",
+      "status": "failed",
       "referenced_by": [
         "20260510085759_twitter_com_XiShangguan_status_2053399138180669624.json"
       ],
-      "last_updated": "2026-05-27T02:15:00",
-      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260510085759/https://video.twimg.com/amplify_video/2053065996181909504/vid/avc1/714x1280/eTrjZns-nFPooRwJ.mp4",
-      "miss_count": 2
+      "last_updated": "2026-05-27T03:10:11",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260510085759/https://video.twimg.com/amplify_video/2053065996181909504/vid/avc1/714x1280/eTrjZns-nFPooRwJ.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f1c3dc7b800>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 3
     }
   },
   "avatars": {
@@ -41977,7 +41977,7 @@
       "last_updated": "2026-05-27T02:01:29"
     },
     "20260510085759_twitter_com_XiShangguan_status_2053399138180669624.json": {
-      "status": "done",
+      "status": "failed",
       "depends_on": {
         "images": [],
         "videos": [
@@ -41988,7 +41988,7 @@
           "https://pbs.twimg.com/profile_images/2052347801045200896/4j5q_ZbS_normal.jpg"
         ]
       },
-      "last_updated": "2026-05-27T02:15:00",
+      "last_updated": "2026-05-27T03:10:11",
       "miss_count": 1
     },
     "20260510091052_twitter_com_XiShangguan_status_2053402379001999806.json": {
