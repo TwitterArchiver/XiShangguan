@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1883768460993552385",
+    "conversation_id": "2045070701787586722",
+    "created_at": "2026-04-17T09:40:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-17T10:40:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045074832531087733"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2044402426619592704",
+          "start": 0,
+          "username": "jsjshjsjddh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045074832531087733",
+    "in_reply_to_user_id": "2044402426619592704",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045074104018157818",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jsjshjsjddh 感谢宝宝"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2045074097886072832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGGQDofaEAAIZBn.jpg",
+        "width": 947
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1883768460993552385",
+        "conversation_id": "2045070701787586722",
+        "created_at": "2026-04-17T09:40:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T10:40:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045074832531087733"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2044402426619592704",
+              "start": 0,
+              "username": "jsjshjsjddh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045074832531087733",
+        "in_reply_to_user_id": "2044402426619592704",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045074104018157818",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jsjshjsjddh 感谢宝宝"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045074097886072832"
+          ]
+        },
+        "author_id": "2044402426619592704",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2045070701787586722",
+        "created_at": "2026-04-17T09:37:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T10:37:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045074104018157818"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1883768460993552385",
+              "start": 0,
+              "username": "XiShangguan"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/lQbbCWFHqs",
+              "end": 39,
+              "expanded_url": "https://x.com/jsjshjsjddh/status/2045074104018157818/photo/1",
+              "media_key": "3_2045074097886072832",
+              "start": 16,
+              "url": "https://t.co/lQbbCWFHqs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045074104018157818",
+        "in_reply_to_user_id": "1883768460993552385",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045070701787586722",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XiShangguan rt https://t.co/lQbbCWFHqs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-27T06:47:27.000Z",
+        "description": "ciallo~这里是上官曦✞08年生✞ODER✞pr单推✞INFP✞查成分互fo，忘记麻烦私信✞二次元✞不政治站边✞听日语歌✞术术人✞xp粉毛✞日语初学✞自毁倾向✞重度抑郁✞躯体化严重✞随时会死🕯️✞性别未知✞喜欢花譜✞上官朝日的日不是动词😡✞在线时间被压榨，没能及时回信息抱歉✞拒绝线下✞推アトリ",
+        "id": "1883768460993552385",
+        "location": "乌托邦",
+        "name": "上官朝日",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033812687277461507/y7sGn9v7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 138,
+          "following_count": 169,
+          "like_count": 5509,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 1172
+        },
+        "username": "XiShangguan",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-15T13:09:50.000Z",
+        "description": "1",
+        "id": "2044402426619592704",
+        "name": "Aaaajdknshh",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045073409403760640/4Ysqo-lH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 15,
+          "like_count": 86,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 5
+        },
+        "username": "jsjshjsjddh",
+        "verified": false
+      }
+    ]
+  }
+}

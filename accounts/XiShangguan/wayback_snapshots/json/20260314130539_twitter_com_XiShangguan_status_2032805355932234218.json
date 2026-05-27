@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1883768460993552385",
+    "conversation_id": "2032715754727158033",
+    "created_at": "2026-03-14T13:05:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-14T14:05:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032805355932234218"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1889969000979054594",
+          "start": 0,
+          "username": "ameame1438809"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032805355932234218",
+    "in_reply_to_user_id": "1889969000979054594",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032715754727158033",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ameame1438809 如果有得选"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1883768460993552385",
+        "conversation_id": "2032715754727158033",
+        "created_at": "2026-03-14T13:05:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T14:05:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032805355932234218"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1889969000979054594",
+              "start": 0,
+              "username": "ameame1438809"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032805355932234218",
+        "in_reply_to_user_id": "1889969000979054594",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032715754727158033",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ameame1438809 如果有得选"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1889969000979054594",
+        "conversation_id": "2032715754727158033",
+        "created_at": "2026-03-14T07:09:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T08:09:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032715754727158033"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2032715754727158033",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3676,
+          "like_count": 48,
+          "quote_count": 1,
+          "reply_count": 20,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "如果有选择，大家还会选择od或吸毒吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-27T06:47:27.000Z",
+        "description": "目光不必在我这里停留",
+        "id": "1883768460993552385",
+        "name": "上官朝日",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029345916734545920/_WrLVa1P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 27,
+          "like_count": 1501,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 146
+        },
+        "username": "XiShangguan",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-13T09:25:29.000Z",
+        "description": "头像名字灵感来源于广州吸毒",
+        "id": "1889969000979054594",
+        "location": "上海市",
+        "name": "上海市吸毒局",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032351529618038784/kE-9sYxM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 21,
+          "like_count": 90,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 48
+        },
+        "username": "ameame1438809",
+        "verified": false
+      }
+    ]
+  }
+}

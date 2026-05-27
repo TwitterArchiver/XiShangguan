@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1883768460993552385",
+    "conversation_id": "2044006814619222241",
+    "created_at": "2026-04-15T08:29:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-15T09:29:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044332202855706792"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1243809877505409025",
+          "start": 0,
+          "username": "CenCen0117"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044332202855706792",
+    "in_reply_to_user_id": "1243809877505409025",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044327932689297612",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CenCen0117 对"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1883768460993552385",
+        "conversation_id": "2044006814619222241",
+        "created_at": "2026-04-15T08:29:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T09:29:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044332202855706792"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1243809877505409025",
+              "start": 0,
+              "username": "CenCen0117"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044332202855706792",
+        "in_reply_to_user_id": "1243809877505409025",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044327932689297612",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CenCen0117 对"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243809877505409025",
+        "conversation_id": "2044006814619222241",
+        "created_at": "2026-04-15T08:12:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T09:12:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044327932689297612"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1883768460993552385",
+              "start": 0,
+              "username": "XiShangguan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044327932689297612",
+        "in_reply_to_user_id": "1883768460993552385",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044006814619222241",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XiShangguan 金刚烷胺？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-27T06:47:27.000Z",
+        "description": "你好，这里是上官曦✞08年生✞ODER✞pr单推✞INFP✞查成分互fo，忘记麻烦私信✞二次元✞政治无感✞只听日语歌✞术术人✞xp粉毛✞不善社交✞日语初学✞自毁倾向✞重度抑郁✞躯体化严重✞随时会死🕯️✞性别未知✞喜欢花譜✞上官朝日的日不是动词😡✞在线时间被压榨，可能没能及时回信息，抱歉✞拒绝线下✞推アトリ",
+        "id": "1883768460993552385",
+        "location": "乌托邦",
+        "name": "上官朝日",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033812687277461507/y7sGn9v7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 123,
+          "following_count": 166,
+          "like_count": 4859,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 1008
+        },
+        "username": "XiShangguan",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-28T07:59:24.000Z",
+        "description": "在学习韩语和英语//学生//爱看动画，漫画，小说//INFP//电波系//已成年//互关，先关注再回关\n\n한국어·일본어·영어 공부 중//대학생//애니, 만화, 소설 좋아함//INFP//전파계//성인\n\n韓国語・日本語・英語勉強中//学生//アニメ・漫画・小説好//電波系",
+        "id": "1243809877505409025",
+        "name": "千千센코",
+        "pinned_tweet_id": "1924489051350126651",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895697472342880256/mjEeC-qy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 124,
+          "like_count": 143,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 95
+        },
+        "username": "CenCen0117",
+        "verified": false
+      }
+    ]
+  }
+}

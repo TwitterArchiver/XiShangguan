@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1883768460993552385",
+    "conversation_id": "2044395613580849583",
+    "created_at": "2026-04-15T23:47:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-16T00:47:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044563402404802579"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1812193973001129985",
+          "start": 0,
+          "username": "affect1217"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044563402404802579",
+    "in_reply_to_user_id": "1812193973001129985",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044443869518156068",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@affect1217 好痛😣"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1883768460993552385",
+        "conversation_id": "2044395613580849583",
+        "created_at": "2026-04-15T23:47:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T00:47:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044563402404802579"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1812193973001129985",
+              "start": 0,
+              "username": "affect1217"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044563402404802579",
+        "in_reply_to_user_id": "1812193973001129985",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044443869518156068",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@affect1217 好痛😣"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1812193973001129985",
+        "conversation_id": "2044395613580849583",
+        "created_at": "2026-04-15T15:52:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T16:52:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044443869518156068"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1883768460993552385",
+              "start": 0,
+              "username": "XiShangguan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044443869518156068",
+        "in_reply_to_user_id": "1883768460993552385",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044395613580849583",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XiShangguan 看着文字好痛"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-27T06:47:27.000Z",
+        "description": "你好，这里是上官曦✞08年生✞ODER✞pr单推✞INFP✞查成分互fo，忘记麻烦私信✞二次元✞政治无感✞只听日语歌✞术术人✞xp粉毛✞不善社交✞日语初学✞自毁倾向✞重度抑郁✞躯体化严重✞随时会死🕯️✞性别未知✞喜欢花譜✞上官朝日的日不是动词😡✞在线时间被压榨，没能及时回信息抱歉✞拒绝线下✞推アトリ✞温柔对待每个人",
+        "id": "1883768460993552385",
+        "location": "乌托邦",
+        "name": "上官朝日",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033812687277461507/y7sGn9v7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 131,
+          "following_count": 169,
+          "like_count": 4952,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 1053
+        },
+        "username": "XiShangguan",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-13T18:35:10.000Z",
+        "description": "08/高二在上学中/isfp/高敏感人格/轻度抑郁症/自残/不od/懒癌晚期/喜欢就fo/",
+        "id": "1812193973001129985",
+        "location": "天堂",
+        "name": "晨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012718687308914688/pUJyycg1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 66,
+          "following_count": 369,
+          "like_count": 6678,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 230
+        },
+        "username": "affect1217",
+        "verified": false
+      }
+    ]
+  }
+}

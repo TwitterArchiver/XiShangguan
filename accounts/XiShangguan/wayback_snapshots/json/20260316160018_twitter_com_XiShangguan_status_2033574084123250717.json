@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1883768460993552385",
+    "conversation_id": "2033450635895669001",
+    "created_at": "2026-03-16T16:00:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-16T17:00:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033574084123250717"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1933907040835104768",
+          "start": 0,
+          "username": "kyo_mu6666"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033574084123250717",
+    "in_reply_to_user_id": "1933907040835104768",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033450635895669001",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kyo_mu6666 愿另一个世界对你好一点"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2033450633211297792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDhEk8TaQAAuB16.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1883768460993552385",
+        "conversation_id": "2033450635895669001",
+        "created_at": "2026-03-16T16:00:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T17:00:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033574084123250717"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1933907040835104768",
+              "start": 0,
+              "username": "kyo_mu6666"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033574084123250717",
+        "in_reply_to_user_id": "1933907040835104768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033450635895669001",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kyo_mu6666 愿另一个世界对你好一点"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2033450633211297792"
+          ]
+        },
+        "author_id": "1933907040835104768",
+        "conversation_id": "2033450635895669001",
+        "created_at": "2026-03-16T07:49:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T08:49:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033450635895669001"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5cdSwokicN",
+              "end": 43,
+              "expanded_url": "https://x.com/kyo_mu6666/status/2033450635895669001/photo/1",
+              "media_key": "3_2033450633211297792",
+              "start": 20,
+              "url": "https://t.co/5cdSwokicN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033450635895669001",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 441,
+          "impression_count": 1049995,
+          "like_count": 3217,
+          "quote_count": 172,
+          "reply_count": 568,
+          "retweet_count": 169
+        },
+        "reply_settings": "everyone",
+        "text": "夜自殺する\nほんとに人生おもしろくない https://t.co/5cdSwokicN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-27T06:47:27.000Z",
+        "description": "目光不必在我这里停留",
+        "id": "1883768460993552385",
+        "name": "上官朝日",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029345916734545920/_WrLVa1P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 27,
+          "like_count": 1515,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 158
+        },
+        "username": "XiShangguan",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-14T15:19:27.000Z",
+        "description": "本垢凍結されたのでこっち使う\n17歳、うつ病 オランザピンのみ服薬中\nアイコン描いたの@gogatsu_yuki5",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 43,
+                "username": "gogatsu_yuki5"
+              }
+            ]
+          }
+        },
+        "id": "1933907040835104768",
+        "location": "熊本熊本市",
+        "name": "あざらし(テクノブレイ区民)",
+        "pinned_tweet_id": "2032196779207512168",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030931027003371520/_jOZKRMo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 563,
+          "following_count": 361,
+          "like_count": 12971,
+          "listed_count": 3,
+          "media_count": 21,
+          "tweet_count": 2288
+        },
+        "username": "kyo_mu6666",
+        "verified": false
+      }
+    ]
+  }
+}

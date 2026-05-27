@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1883768460993552385",
+    "conversation_id": "2007845045194645532",
+    "created_at": "2026-01-06T05:42:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-06T06:42:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2008413811565592930"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1863439189909618688",
+          "start": 0,
+          "username": "hsn8086xe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008413811565592930",
+    "in_reply_to_user_id": "1863439189909618688",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2007845045194645532",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hsn8086xe 撒旦小时候吵着要看"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 810,
+        "media_key": "3_2007845012420386816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G91MZplbYAAPOJS.jpg",
+        "width": 943
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1883768460993552385",
+        "conversation_id": "2007845045194645532",
+        "created_at": "2026-01-06T05:42:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-06T06:42:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008413811565592930"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1863439189909618688",
+              "start": 0,
+              "username": "hsn8086xe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008413811565592930",
+        "in_reply_to_user_id": "1863439189909618688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007845045194645532",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hsn8086xe 撒旦小时候吵着要看"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2007845012420386816"
+          ]
+        },
+        "author_id": "1863439189909618688",
+        "conversation_id": "2007845045194645532",
+        "created_at": "2026-01-04T16:02:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-04T17:02:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2007845045194645532"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TT7df3P3aW",
+              "end": 23,
+              "expanded_url": "https://x.com/hsn8086xe/status/2007845045194645532/photo/1",
+              "media_key": "3_2007845012420386816",
+              "start": 0,
+              "url": "https://t.co/TT7df3P3aW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007845045194645532",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 135,
+          "impression_count": 621444,
+          "like_count": 1742,
+          "quote_count": 21,
+          "reply_count": 260,
+          "retweet_count": 29
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/TT7df3P3aW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-27T06:47:27.000Z",
+        "description": "",
+        "id": "1883768460993552385",
+        "name": "上官朝日",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1938304574810689537/M2MJpU6T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 23,
+          "like_count": 865,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 21
+        },
+        "username": "XiShangguan",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-02T04:25:11.000Z",
+        "description": "都是老图 | 头像来自: @PetitPoissonXY",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 13,
+                "username": "PetitPoissonXY"
+              }
+            ]
+          }
+        },
+        "id": "1863439189909618688",
+        "location": "Internet",
+        "name": "hsn.bot",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897601834170404864/XYWOnn7f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30941,
+          "following_count": 352,
+          "like_count": 78,
+          "listed_count": 92,
+          "media_count": 9461,
+          "tweet_count": 9500
+        },
+        "username": "hsn8086xe",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1883768460993552385",
+    "conversation_id": "2045277015717323145",
+    "created_at": "2026-04-18T07:12:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-18T08:12:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045400050780774477"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1887391023976038400",
+          "start": 0,
+          "username": "xiey57828"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045400050780774477",
+    "in_reply_to_user_id": "1887391023976038400",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045277015717323145",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiey57828 祝好运！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2045277003449024512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGJImSnawAAKXnS.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1883768460993552385",
+        "conversation_id": "2045277015717323145",
+        "created_at": "2026-04-18T07:12:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T08:12:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045400050780774477"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1887391023976038400",
+              "start": 0,
+              "username": "xiey57828"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045400050780774477",
+        "in_reply_to_user_id": "1887391023976038400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045277015717323145",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiey57828 祝好运！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045277003449024512"
+          ]
+        },
+        "author_id": "1887391023976038400",
+        "conversation_id": "2045277015717323145",
+        "created_at": "2026-04-17T23:03:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T00:03:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045277015717323145"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/G1n6wUfgB1",
+              "end": 29,
+              "expanded_url": "https://x.com/xiey57828/status/2045277015717323145/photo/1",
+              "media_key": "3_2045277003449024512",
+              "start": 6,
+              "url": "https://t.co/G1n6wUfgB1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045277015717323145",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 8222,
+          "like_count": 92,
+          "quote_count": 0,
+          "reply_count": 22,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "被赶出来了 https://t.co/G1n6wUfgB1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-27T06:47:27.000Z",
+        "description": "ciallo~这里是上官曦✞08年生✞ODER✞pr单推✞INFP✞查成分互fo，忘记麻烦私信✞二次元✞不政治站边✞负能量⚠✞碎碎念✞听日语歌✞术术人✞xp粉毛✞日语初学✞自毁倾向✞重度抑郁✞躯体化严重✞随时会死🕯️✞性别未知✞喜欢花譜✞至死追随@tngxngxng13171✞没能及时回信息致歉✞拒绝线下✞推アトリ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 138,
+                "start": 123,
+                "username": "tngxngxng13171"
+              }
+            ]
+          }
+        },
+        "id": "1883768460993552385",
+        "location": "乌托邦",
+        "name": "上官朝日",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033812687277461507/y7sGn9v7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 147,
+          "following_count": 178,
+          "like_count": 5820,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 1293
+        },
+        "username": "XiShangguan",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-06T06:41:19.000Z",
+        "description": "怀所以之本心，沐幽而行，浴桃源一梦🥵。精神状态中等去玩应该变较好吧🥺，o！😣。碎碎念😇....自我介绍在@520xiey57828。宝宝@xyu1182202 好妹妹@ST_Bed0721讨厌0721😡和我聊天加微信或者tg：https://t.co/ukTVcAQw7k",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 52,
+                "username": "520xiey57828"
+              },
+              {
+                "end": 79,
+                "start": 68,
+                "username": "xyu1182202"
+              },
+              {
+                "end": 94,
+                "start": 83,
+                "username": "ST_Bed0721"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/xiey57828",
+                "end": 136,
+                "expanded_url": "https://t.me/xiey57828",
+                "start": 113,
+                "url": "https://t.co/ukTVcAQw7k"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiey57828",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiey57828",
+                "start": 0,
+                "url": "https://t.co/dlkZFZjfgW"
+              }
+            ]
+          }
+        },
+        "id": "1887391023976038400",
+        "location": "阎王殿",
+        "name": "沐桃🍥",
+        "pinned_tweet_id": "2045044238765981782",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038038302096490496/YzWyl6gU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 472,
+          "following_count": 337,
+          "like_count": 3117,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 1263
+        },
+        "url": "https://t.co/dlkZFZjfgW",
+        "username": "xiey57828",
+        "verified": false
+      }
+    ]
+  }
+}

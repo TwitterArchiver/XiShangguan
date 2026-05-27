@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1883768460993552385",
+    "conversation_id": "2035653610768679355",
+    "created_at": "2026-03-23T16:17:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-23T17:17:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036115234105246068"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1717484691098423296",
+          "start": 0,
+          "username": "ocpcy44311125"
+        },
+        {
+          "end": 29,
+          "id": "1916824571128287232",
+          "start": 15,
+          "username": "fayoubaike666"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036115234105246068",
+    "in_reply_to_user_id": "1717484691098423296",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036009379967697151",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ocpcy44311125 @fayoubaike666 我认识的大部分青春期患有精神疾病的，他们的生命都停止在青春期了😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1883768460993552385",
+        "conversation_id": "2035653610768679355",
+        "created_at": "2026-03-23T16:17:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T17:17:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036115234105246068"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1717484691098423296",
+              "start": 0,
+              "username": "ocpcy44311125"
+            },
+            {
+              "end": 29,
+              "id": "1916824571128287232",
+              "start": 15,
+              "username": "fayoubaike666"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036115234105246068",
+        "in_reply_to_user_id": "1717484691098423296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036009379967697151",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ocpcy44311125 @fayoubaike666 我认识的大部分青春期患有精神疾病的，他们的生命都停止在青春期了😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1717484691098423296",
+        "conversation_id": "2035653610768679355",
+        "created_at": "2026-03-23T09:17:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T10:17:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036009379967697151"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1916824571128287232",
+              "start": 0,
+              "username": "fayoubaike666"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036009379967697151",
+        "in_reply_to_user_id": "1916824571128287232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 92,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035653610768679355",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fayoubaike666 大部分青春期的精神病都是暂时的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-27T06:47:27.000Z",
+        "description": "目光不必在我这里停留",
+        "id": "1883768460993552385",
+        "name": "上官朝日",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033812687277461507/y7sGn9v7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 29,
+          "like_count": 1592,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 189
+        },
+        "username": "XiShangguan",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-26T10:14:10.000Z",
+        "description": "自闭中。。。。",
+        "id": "1717484691098423296",
+        "name": "圈圈大王",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032747405683146752/Jx5gjxtF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 12,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 140
+        },
+        "username": "ocpcy44311125",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-28T11:59:48.000Z",
+        "description": "由法友百科Sakura与Meng运营\n博客：https://t.co/N5OWFEYlEo",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pr80.bid",
+                "end": 45,
+                "expanded_url": "https://pr80.bid/",
+                "start": 22,
+                "url": "https://t.co/N5OWFEYlEo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fayou.fyi",
+                "end": 23,
+                "expanded_url": "https://fayou.fyi",
+                "start": 0,
+                "url": "https://t.co/vtS1w2QdPH"
+              }
+            ]
+          }
+        },
+        "id": "1916824571128287232",
+        "location": "Japan",
+        "name": "法友百科",
+        "pinned_tweet_id": "2035560092050039087",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031290772440641536/QNkKbty9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1568,
+          "following_count": 633,
+          "like_count": 398,
+          "listed_count": 0,
+          "media_count": 113,
+          "tweet_count": 598
+        },
+        "url": "https://t.co/vtS1w2QdPH",
+        "username": "fayoubaike666",
+        "verified": false
+      }
+    ]
+  }
+}

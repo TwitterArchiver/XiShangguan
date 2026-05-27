@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1883768460993552385",
+    "conversation_id": "2029103215686631696",
+    "created_at": "2026-03-05T10:07:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-05T11:07:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029499044477968513"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1865786689043763200",
+          "start": 0,
+          "username": "XZhuihuihui7"
+        },
+        {
+          "end": 30,
+          "id": "1823042589760880640",
+          "start": 14,
+          "username": "chuyinweilai114"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029499044477968513",
+    "in_reply_to_user_id": "1865786689043763200",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029175075686265047",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XZhuihuihui7 @chuyinweilai114 我的也是，想四但没钱😂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1883768460993552385",
+        "conversation_id": "2029103215686631696",
+        "created_at": "2026-03-05T10:07:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-05T11:07:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029499044477968513"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1865786689043763200",
+              "start": 0,
+              "username": "XZhuihuihui7"
+            },
+            {
+              "end": 30,
+              "id": "1823042589760880640",
+              "start": 14,
+              "username": "chuyinweilai114"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029499044477968513",
+        "in_reply_to_user_id": "1865786689043763200",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029175075686265047",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XZhuihuihui7 @chuyinweilai114 我的也是，想四但没钱😂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1865786689043763200",
+        "conversation_id": "2029103215686631696",
+        "created_at": "2026-03-04T12:40:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-04T13:40:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029175075686265047"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1823042589760880640",
+              "start": 0,
+              "username": "chuyinweilai114"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029175075686265047",
+        "in_reply_to_user_id": "1823042589760880640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7995,
+          "like_count": 98,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029103215686631696",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chuyinweilai114 666最近给我推这么多嗑药死的是什么意思我买得起吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-27T06:47:27.000Z",
+        "description": "花譜大好き",
+        "id": "1883768460993552385",
+        "name": "上官朝日",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029345916734545920/_WrLVa1P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 26,
+          "like_count": 1293,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 79
+        },
+        "username": "XiShangguan",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-08T15:55:19.000Z",
+        "description": "",
+        "id": "1865786689043763200",
+        "name": "XZhuihuihui7",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028702266455408640/Y_yhyMaX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 32,
+          "like_count": 3228,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 280
+        },
+        "username": "XZhuihuihui7",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-12T17:03:31.000Z",
+        "description": "。。。",
+        "id": "1823042589760880640",
+        "name": "yice",
+        "pinned_tweet_id": "2016897093789765839",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018332290691350529/iAwD6mhe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 154,
+          "following_count": 129,
+          "like_count": 166,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 29
+        },
+        "username": "chuyinweilai114",
+        "verified": false
+      }
+    ]
+  }
+}

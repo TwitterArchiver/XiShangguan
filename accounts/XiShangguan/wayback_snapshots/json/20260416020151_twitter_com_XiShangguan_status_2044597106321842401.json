@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1883768460993552385",
+    "conversation_id": "2044412828334125457",
+    "created_at": "2026-04-16T02:01:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-16T03:01:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044597106321842401"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1982429504225349632",
+          "start": 0,
+          "username": "AMadelaina"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044597106321842401",
+    "in_reply_to_user_id": "1982429504225349632",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044412828334125457",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AMadelaina 宝宝，祝你幸福，以后的生活一定会绚烂无比"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1883768460993552385",
+        "conversation_id": "2044412828334125457",
+        "created_at": "2026-04-16T02:01:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T03:01:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044597106321842401"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1982429504225349632",
+              "start": 0,
+              "username": "AMadelaina"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044597106321842401",
+        "in_reply_to_user_id": "1982429504225349632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044412828334125457",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AMadelaina 宝宝，祝你幸福，以后的生活一定会绚烂无比"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1982429504225349632",
+        "conversation_id": "2044412828334125457",
+        "created_at": "2026-04-15T13:49:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T14:49:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044412828334125457"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2044412828334125457",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1455,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我把最后十几盒药全部送人了，我再不要od"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-27T06:47:27.000Z",
+        "description": "你好，这里是上官曦✞08年生✞ODER✞pr单推✞INFP✞查成分互fo，忘记麻烦私信✞二次元✞政治无感✞只听日语歌✞术术人✞xp粉毛✞不善社交✞日语初学✞自毁倾向✞重度抑郁✞躯体化严重✞随时会死🕯️✞性别未知✞喜欢花譜✞上官朝日的日不是动词😡✞在线时间被压榨，没能及时回信息抱歉✞拒绝线下✞推アトリ✞温柔对待每个人",
+        "id": "1883768460993552385",
+        "location": "乌托邦",
+        "name": "上官朝日",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033812687277461507/y7sGn9v7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 133,
+          "following_count": 170,
+          "like_count": 5109,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 1094
+        },
+        "username": "XiShangguan",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-26T12:50:21.000Z",
+        "description": "我是椒椒，前世@Ina_puppywwww被盗，助力我找回互关……",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 7,
+                "username": "Ina_puppywwww"
+              }
+            ]
+          }
+        },
+        "id": "1982429504225349632",
+        "name": "藏身在无花的雾里",
+        "pinned_tweet_id": "2020467357831897184",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004282193246625792/zuCMvmhf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1939,
+          "following_count": 232,
+          "like_count": 1455,
+          "listed_count": 3,
+          "media_count": 111,
+          "tweet_count": 523
+        },
+        "username": "AMadelaina",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1883768460993552385",
+    "conversation_id": "2029867009345998994",
+    "created_at": "2026-03-06T10:29:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-06T11:29:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2029867009345998994"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2029867009345998994",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "根本没想要自救，也不怎么想脱离这种状态了，反正现实里没什么人在乎我，网上也没有什么人认识我，这样活着只不过是不断欺骗自己罢了，如果死亡是一件能被接受的事，所有人都尊重我的命运，不会插手试图救活我就好了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1883768460993552385",
+        "conversation_id": "2029867009345998994",
+        "created_at": "2026-03-06T10:29:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T11:29:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029867009345998994"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2029867009345998994",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "根本没想要自救，也不怎么想脱离这种状态了，反正现实里没什么人在乎我，网上也没有什么人认识我，这样活着只不过是不断欺骗自己罢了，如果死亡是一件能被接受的事，所有人都尊重我的命运，不会插手试图救活我就好了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-27T06:47:27.000Z",
+        "description": "あああ、427",
+        "id": "1883768460993552385",
+        "name": "上官朝日",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029345916734545920/_WrLVa1P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 26,
+          "like_count": 1355,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 101
+        },
+        "username": "XiShangguan",
+        "verified": false
+      }
+    ]
+  }
+}

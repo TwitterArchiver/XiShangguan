@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1883768460993552385",
+    "conversation_id": "2044522290915037355",
+    "created_at": "2026-04-16T00:48:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-16T01:48:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044578529124532571"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1682793693630304260",
+          "start": 0,
+          "username": "gpSillyB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044578529124532571",
+    "in_reply_to_user_id": "1682793693630304260",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044522290915037355",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gpSillyB 好真实"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1883768460993552385",
+        "conversation_id": "2044522290915037355",
+        "created_at": "2026-04-16T00:48:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T01:48:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044578529124532571"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1682793693630304260",
+              "start": 0,
+              "username": "gpSillyB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044578529124532571",
+        "in_reply_to_user_id": "1682793693630304260",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044522290915037355",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gpSillyB 好真实"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1682793693630304260",
+        "conversation_id": "2044522290915037355",
+        "created_at": "2026-04-15T21:04:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T22:04:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044522290915037355"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2044522290915037355",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "进了很多人的聊天空间，有时候感觉像走在一条很热闹的街上。\n\n每个人都在说话、在做自己的事，好像都挺自然的。\n\n我就一直在旁边看着，听他们说什么，看他们在聊什么，但就是插不进去。\n\n有时候会看到一个人，好像也没在说话，就会想，要不要去跟她说点什么。\n\n但会想很多，怕打扰，怕奇怪，怕不知道说什么。\n\n等我真的有点想去试的时候，\n才发现她其实不是一个人，她只是刚好在等别人。\n有点说不上来的感觉。\n\n好像不是没有机会，是每次都差一点，总是这样……"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 31,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "进了很多人的聊天空间，有时候感觉像走在一条很热闹的街上。\n\n每个人都在说话、在做自己的事，好像都挺自然的。\n\n我就一直在旁边看着，听他们说什么，看他们在聊什么，但就是插不进去。\n\n有时候会看到一个人，好像也没在说话，就会想，要不要去跟她说点什么。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-27T06:47:27.000Z",
+        "description": "你好，这里是上官曦✞08年生✞ODER✞pr单推✞INFP✞查成分互fo，忘记麻烦私信✞二次元✞政治无感✞只听日语歌✞术术人✞xp粉毛✞不善社交✞日语初学✞自毁倾向✞重度抑郁✞躯体化严重✞随时会死🕯️✞性别未知✞喜欢花譜✞上官朝日的日不是动词😡✞在线时间被压榨，没能及时回信息抱歉✞拒绝线下✞推アトリ✞温柔对待每个人",
+        "id": "1883768460993552385",
+        "location": "乌托邦",
+        "name": "上官朝日",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033812687277461507/y7sGn9v7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 131,
+          "following_count": 169,
+          "like_count": 5036,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 1079
+        },
+        "username": "XiShangguan",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-22T16:44:22.000Z",
+        "description": "男/05/想认识更多人",
+        "id": "1682793693630304260",
+        "name": "糖豆人人间体",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848009456929607680/LuLPhR5m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 83,
+          "like_count": 998,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 313
+        },
+        "username": "gpSillyB",
+        "verified": false
+      }
+    ]
+  }
+}

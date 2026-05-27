@@ -1,0 +1,92 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1883768460993552385",
+    "conversation_id": "2033499041510961404",
+    "created_at": "2026-03-16T11:02:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-16T12:02:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2033499041510961404"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2033499041510961404",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "修眉刀不是有锯齿吗，割着不疼吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1883768460993552385",
+        "conversation_id": "2033499041510961404",
+        "created_at": "2026-03-16T11:02:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T12:02:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033499041510961404"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2033499041510961404",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "修眉刀不是有锯齿吗，割着不疼吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-27T06:47:27.000Z",
+        "description": "目光不必在我这里停留",
+        "id": "1883768460993552385",
+        "name": "上官朝日",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029345916734545920/_WrLVa1P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 27,
+          "like_count": 1510,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 155
+        },
+        "username": "XiShangguan",
+        "verified": false
+      }
+    ]
+  }
+}

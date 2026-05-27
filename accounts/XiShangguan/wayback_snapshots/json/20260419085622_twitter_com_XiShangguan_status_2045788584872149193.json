@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1883768460993552385",
+    "conversation_id": "2045491602274365578",
+    "created_at": "2026-04-19T08:56:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-19T09:56:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045788584872149193"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1734188803747962880",
+          "start": 0,
+          "username": "GeBiubiu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045788584872149193",
+    "in_reply_to_user_id": "1734188803747962880",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045491602274365578",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GeBiubiu 喝了会说胡话😖"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1757,
+        "media_key": "3_2045491342596534272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGMLieKacAAoMov.jpg",
+        "width": 1284
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1883768460993552385",
+        "conversation_id": "2045491602274365578",
+        "created_at": "2026-04-19T08:56:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T09:56:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045788584872149193"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1734188803747962880",
+              "start": 0,
+              "username": "GeBiubiu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045788584872149193",
+        "in_reply_to_user_id": "1734188803747962880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045491602274365578",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GeBiubiu 喝了会说胡话😖"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045491342596534272"
+          ]
+        },
+        "author_id": "1734188803747962880",
+        "conversation_id": "2045491602274365578",
+        "created_at": "2026-04-18T13:16:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T14:16:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045491602274365578"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/v23spuc0eA",
+              "end": 32,
+              "expanded_url": "https://x.com/GeBiubiu/status/2045491602274365578/photo/1",
+              "media_key": "3_2045491342596534272",
+              "start": 9,
+              "url": "https://t.co/v23spuc0eA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045491602274365578",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 24295,
+          "like_count": 102,
+          "quote_count": 3,
+          "reply_count": 223,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你喝了酒会干吗？ https://t.co/v23spuc0eA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-27T06:47:27.000Z",
+        "description": "ciallo~这里是上官曦✞08年生✞ODER✞性冷淡✞INFP✞查成分互fo，忘记麻烦私信✞私宅一枚✞喜欢日轻✞负能量⚠✞碎碎念✞术术人✞xp粉毛✞日语初学✞自毁倾向✞重度抑郁✞躯体化严重✞随时会死🕯️✞性别未知✞喜欢花譜✞至死追随@tngxngxng13171✞没能及时回信息致歉✞拒绝线下✞推アトリ✞玩fps",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 132,
+                "start": 117,
+                "username": "tngxngxng13171"
+              }
+            ]
+          }
+        },
+        "id": "1883768460993552385",
+        "location": "乌托邦",
+        "name": "上官朝日",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033812687277461507/y7sGn9v7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 146,
+          "following_count": 4,
+          "like_count": 53,
+          "listed_count": 0,
+          "media_count": 89,
+          "tweet_count": 1419
+        },
+        "username": "XiShangguan",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-11T12:30:30.000Z",
+        "description": "🇨🇳 钢筋直男 分享 美好\n      \n（视频图片源自网络 如有侵权请联系删除～）",
+        "id": "1734188803747962880",
+        "location": "Jiangxi China",
+        "name": "是Biubiu_Ge",
+        "pinned_tweet_id": "2028390436583485865",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011019340095897601/M3EAib_x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11222,
+          "following_count": 5997,
+          "like_count": 371968,
+          "listed_count": 35,
+          "media_count": 999,
+          "tweet_count": 17740
+        },
+        "username": "GeBiubiu",
+        "verified": false
+      }
+    ]
+  }
+}

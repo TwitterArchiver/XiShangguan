@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1883768460993552385",
+    "conversation_id": "2044416621889097931",
+    "created_at": "2026-04-16T00:55:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-16T01:55:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044580329424670823"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1753433273865498624",
+          "start": 0,
+          "username": "qiaoke_choco"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044580329424670823",
+    "in_reply_to_user_id": "1753433273865498624",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044416621889097931",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qiaoke_choco 可爱❤️"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2044416614167355393",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF86FCxaIAEx7ss.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1883768460993552385",
+        "conversation_id": "2044416621889097931",
+        "created_at": "2026-04-16T00:55:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T01:55:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044580329424670823"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1753433273865498624",
+              "start": 0,
+              "username": "qiaoke_choco"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044580329424670823",
+        "in_reply_to_user_id": "1753433273865498624",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044416621889097931",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qiaoke_choco 可爱❤️"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2044416614167355393"
+          ]
+        },
+        "author_id": "1753433273865498624",
+        "conversation_id": "2044416621889097931",
+        "created_at": "2026-04-15T14:04:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T15:04:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044416621889097931"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 11,
+              "start": 4,
+              "tag": "可爱的男孩子"
+            },
+            {
+              "end": 15,
+              "start": 12,
+              "tag": "男娘"
+            },
+            {
+              "end": 19,
+              "start": 16,
+              "tag": "伪娘"
+            },
+            {
+              "end": 23,
+              "start": 20,
+              "tag": "女装"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5Biyi7dXrj",
+              "end": 47,
+              "expanded_url": "https://x.com/qiaoke_choco/status/2044416621889097931/photo/1",
+              "media_key": "3_2044416614167355393",
+              "start": 24,
+              "url": "https://t.co/5Biyi7dXrj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044416621889097931",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1184,
+          "like_count": 81,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "悠闲）\n#可爱的男孩子 #男娘 #伪娘 #女装 https://t.co/5Biyi7dXrj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-27T06:47:27.000Z",
+        "description": "你好，这里是上官曦✞08年生✞ODER✞pr单推✞INFP✞查成分互fo，忘记麻烦私信✞二次元✞政治无感✞只听日语歌✞术术人✞xp粉毛✞不善社交✞日语初学✞自毁倾向✞重度抑郁✞躯体化严重✞随时会死🕯️✞性别未知✞喜欢花譜✞上官朝日的日不是动词😡✞在线时间被压榨，没能及时回信息抱歉✞拒绝线下✞推アトリ✞温柔对待每个人",
+        "id": "1883768460993552385",
+        "location": "乌托邦",
+        "name": "上官朝日",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033812687277461507/y7sGn9v7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 131,
+          "following_count": 169,
+          "like_count": 5063,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 1084
+        },
+        "username": "XiShangguan",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-02T15:00:58.000Z",
+        "description": "“反正就是，成分複雜音遊人？” 你好喵，我是巧克 | \n伪娘｜玩MC/FPS｜泛ACGN/搞计算机｜互fo喵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "chocoqaq.com",
+                "end": 23,
+                "expanded_url": "http://chocoqaq.com",
+                "start": 0,
+                "url": "https://t.co/PKEaSDYDSL"
+              }
+            ]
+          }
+        },
+        "id": "1753433273865498624",
+        "location": "East Asia",
+        "name": "南雲チョコ🍫🍰🍮🍙",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020527726277570560/1ebi-zik_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 971,
+          "following_count": 463,
+          "like_count": 5690,
+          "listed_count": 1,
+          "media_count": 148,
+          "tweet_count": 1160
+        },
+        "url": "https://t.co/PKEaSDYDSL",
+        "username": "qiaoke_choco",
+        "verified": false
+      }
+    ]
+  }
+}

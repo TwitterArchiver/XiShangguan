@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1883768460993552385",
+    "conversation_id": "2036349122463277564",
+    "created_at": "2026-03-25T00:04:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-25T01:04:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036595076466614537"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1896948222570147840",
+          "start": 0,
+          "username": "laki954456"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036595076466614537",
+    "in_reply_to_user_id": "1896948222570147840",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036594973987029067",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@laki954456 没事"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1883768460993552385",
+        "conversation_id": "2036349122463277564",
+        "created_at": "2026-03-25T00:04:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T01:04:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036595076466614537"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1896948222570147840",
+              "start": 0,
+              "username": "laki954456"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036595076466614537",
+        "in_reply_to_user_id": "1896948222570147840",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036594973987029067",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@laki954456 没事"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896948222570147840",
+        "conversation_id": "2036349122463277564",
+        "created_at": "2026-03-25T00:04:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T01:04:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036594973987029067"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1883768460993552385",
+              "start": 0,
+              "username": "XiShangguan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036594973987029067",
+        "in_reply_to_user_id": "1883768460993552385",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036594551549468747",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XiShangguan 冒犯了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-27T06:47:27.000Z",
+        "description": "他没给我书写的人设我会自己补上\n死前会发说明",
+        "id": "1883768460993552385",
+        "name": "上官朝日",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033812687277461507/y7sGn9v7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 31,
+          "like_count": 1603,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 212
+        },
+        "username": "XiShangguan",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-04T15:38:36.000Z",
+        "description": "纯发泄负面情绪来的 不用在意的 虽然感觉本来也不会有人在意",
+        "id": "1896948222570147840",
+        "location": "Hong Kong",
+        "name": "em？",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1901088265647910913/qHy8PP0C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61,
+          "following_count": 92,
+          "like_count": 1394,
+          "listed_count": 1,
+          "media_count": 3,
+          "tweet_count": 1743
+        },
+        "username": "laki954456",
+        "verified": false
+      }
+    ]
+  }
+}

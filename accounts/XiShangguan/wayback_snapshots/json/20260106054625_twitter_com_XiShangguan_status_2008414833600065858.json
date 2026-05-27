@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1883768460993552385",
+    "conversation_id": "2008139026658947204",
+    "created_at": "2026-01-06T05:46:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-06T06:46:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2008414833600065858"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1925742683026337792",
+          "start": 0,
+          "username": "tamaki6039"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008414833600065858",
+    "in_reply_to_user_id": "1925742683026337792",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008139026658947204",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tamaki6039 ( ๑ŏ ﹏ ŏ๑ )"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1496,
+        "media_key": "3_2008138923575590912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G95Xth9bwAA8fvP.jpg",
+        "width": 1048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1883768460993552385",
+        "conversation_id": "2008139026658947204",
+        "created_at": "2026-01-06T05:46:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-06T06:46:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008414833600065858"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1925742683026337792",
+              "start": 0,
+              "username": "tamaki6039"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008414833600065858",
+        "in_reply_to_user_id": "1925742683026337792",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008139026658947204",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tamaki6039 ( ๑ŏ ﹏ ŏ๑ )"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2008138923575590912"
+          ]
+        },
+        "author_id": "1925742683026337792",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Society",
+              "id": "847896364256067584",
+              "name": "Society"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Marriage",
+              "id": "847896538105782272",
+              "name": "Marriage"
+            }
+          }
+        ],
+        "conversation_id": "2008139026658947204",
+        "created_at": "2026-01-05T11:30:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-05T12:30:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008139026658947204"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1cPLIN8ZkC",
+              "end": 49,
+              "expanded_url": "https://x.com/tamaki6039/status/2008139026658947204/photo/1",
+              "media_key": "3_2008138923575590912",
+              "start": 26,
+              "url": "https://t.co/1cPLIN8ZkC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008139026658947204",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2812,
+          "impression_count": 2508270,
+          "like_count": 16830,
+          "quote_count": 8,
+          "reply_count": 94,
+          "retweet_count": 466
+        },
+        "reply_settings": "everyone",
+        "text": "ジト目後輩彼女と結婚するまで【43話】\n(1/2) https://t.co/1cPLIN8ZkC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-27T06:47:27.000Z",
+        "description": "",
+        "id": "1883768460993552385",
+        "name": "上官朝日",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1938304574810689537/M2MJpU6T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 23,
+          "like_count": 869,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 23
+        },
+        "username": "XiShangguan",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-23T02:36:59.000Z",
+        "description": "日めくりAI漫画【ジト目後輩彼女と結婚するまで】連載中🌳 \n支援サイトに全話まとめてます→https://t.co/c0sPdjdOw4",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "patreon.com/c/tamaki6039/p…",
+                "end": 68,
+                "expanded_url": "https://www.patreon.com/c/tamaki6039/posts",
+                "start": 45,
+                "url": "https://t.co/c0sPdjdOw4"
+              }
+            ]
+          }
+        },
+        "id": "1925742683026337792",
+        "name": "たま木",
+        "pinned_tweet_id": "2002682204405526824",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003250871300423685/MQKGBoAG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22221,
+          "following_count": 257,
+          "like_count": 3208,
+          "listed_count": 97,
+          "media_count": 231,
+          "tweet_count": 1933
+        },
+        "username": "tamaki6039",
+        "verified": true
+      }
+    ]
+  }
+}

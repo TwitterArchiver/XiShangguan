@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1883768460993552385",
+    "conversation_id": "2044639336940134475",
+    "created_at": "2026-04-16T11:04:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-16T12:04:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044733630921191816"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2008812080099672064",
+          "start": 0,
+          "username": "Xiaoyi_0324"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044733630921191816",
+    "in_reply_to_user_id": "2008812080099672064",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044639336940134475",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Xiaoyi_0324 我们不要割自己了，我们去割别人吧😂"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1572,
+        "media_key": "3_2044639331936251904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGAEo7HaMAAAeeL.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1883768460993552385",
+        "conversation_id": "2044639336940134475",
+        "created_at": "2026-04-16T11:04:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T12:04:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044733630921191816"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2008812080099672064",
+              "start": 0,
+              "username": "Xiaoyi_0324"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044733630921191816",
+        "in_reply_to_user_id": "2008812080099672064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044639336940134475",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaoyi_0324 我们不要割自己了，我们去割别人吧😂"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2044639331936251904"
+          ]
+        },
+        "author_id": "2008812080099672064",
+        "conversation_id": "2044639336940134475",
+        "created_at": "2026-04-16T04:49:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T05:49:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044639336940134475"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/suYZQSfBZU",
+              "end": 57,
+              "expanded_url": "https://x.com/Xiaoyi_0324/status/2044639336940134475/photo/1",
+              "media_key": "3_2044639331936251904",
+              "start": 34,
+              "url": "https://t.co/suYZQSfBZU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044639336940134475",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 5620,
+          "like_count": 103,
+          "quote_count": 11,
+          "reply_count": 14,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "依旧gzjd 依旧神人发言\n我们不要od了我们用糖果替代od吧\n😂 https://t.co/suYZQSfBZU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-27T06:47:27.000Z",
+        "description": "你好，这里是上官曦✞08年生✞ODER✞pr单推✞INFP✞查成分互fo，忘记麻烦私信✞二次元✞政治无感✞只听日语歌✞术术人✞xp粉毛✞不善社交✞日语初学✞自毁倾向✞重度抑郁✞躯体化严重✞随时会死🕯️✞性别未知✞喜欢花譜✞上官朝日的日不是动词😡✞在线时间被压榨，没能及时回信息抱歉✞拒绝线下✞推アトリ",
+        "id": "1883768460993552385",
+        "location": "乌托邦",
+        "name": "上官朝日",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033812687277461507/y7sGn9v7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 132,
+          "following_count": 171,
+          "like_count": 5215,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 1123
+        },
+        "url": "",
+        "username": "XiShangguan",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-07T08:05:14.000Z",
+        "description": "几乎全天在线的互联网fw！负面情绪致歉|直fo成分回|同类直接回(没看到要私信🥹)|MTX(F?)|里推@NiaoYou83766|TG:https://t.co/qxwHiPDvd0|这些是关系好的推U @Sankta_AM @Z348457376 @YOYOSAMA372185",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 52,
+                "username": "NiaoYou83766"
+              },
+              {
+                "end": 113,
+                "start": 103,
+                "username": "Sankta_AM"
+              },
+              {
+                "end": 125,
+                "start": 114,
+                "username": "Z348457376"
+              },
+              {
+                "end": 141,
+                "start": 126,
+                "username": "YOYOSAMA372185"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/xiaoyi_0324",
+                "end": 92,
+                "expanded_url": "http://t.me/xiaoyi_0324",
+                "start": 69,
+                "url": "https://t.co/qxwHiPDvd0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaoyi0324",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaoyi0324",
+                "start": 0,
+                "url": "https://t.co/SiMjjU6DSn"
+              }
+            ]
+          }
+        },
+        "id": "2008812080099672064",
+        "location": "来玩捉迷藏吧？",
+        "name": "樱川由奈🏳️‍⚧️sakura🍥",
+        "pinned_tweet_id": "2040472479333052736",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041966864163880960/7aHicZzs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 296,
+          "following_count": 149,
+          "like_count": 1003,
+          "listed_count": 0,
+          "media_count": 122,
+          "tweet_count": 855
+        },
+        "url": "https://t.co/SiMjjU6DSn",
+        "username": "Xiaoyi_0324",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1883768460993552385",
+    "conversation_id": "1920117517168636180",
+    "created_at": "2025-05-09T12:51:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-09T13:51:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1920824043453694007"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1584905788195508224",
+          "start": 0,
+          "username": "Yo_kitsune"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1920824043453694007",
+    "in_reply_to_user_id": "1584905788195508224",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1920117517168636180",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yo_kitsune 这我学几冒啊"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_1920117320212795392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqWgh45b0AA55NR.jpg",
+        "width": 2064
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1883768460993552385",
+        "conversation_id": "1920117517168636180",
+        "created_at": "2025-05-09T12:51:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-09T13:51:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1920824043453694007"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1584905788195508224",
+              "start": 0,
+              "username": "Yo_kitsune"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1920824043453694007",
+        "in_reply_to_user_id": "1584905788195508224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1920117517168636180",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yo_kitsune 这我学几冒啊"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1920117320212795392"
+          ]
+        },
+        "author_id": "1584905788195508224",
+        "conversation_id": "1920117517168636180",
+        "created_at": "2025-05-07T14:04:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-07T15:04:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1920117517168636180"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 30,
+              "start": 21,
+              "tag": "ヰ世界情緒美術部"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/h3TIHAh7Jl",
+              "end": 54,
+              "expanded_url": "https://x.com/Yo_kitsune/status/1920117517168636180/photo/1",
+              "media_key": "3_1920117320212795392",
+              "start": 31,
+              "url": "https://t.co/h3TIHAh7Jl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1920117517168636180",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 55,
+          "impression_count": 12932,
+          "like_count": 646,
+          "quote_count": 0,
+          "reply_count": 14,
+          "retweet_count": 92
+        },
+        "reply_settings": "everyone",
+        "text": "第一次做画画教学\n论如何画一只可爱的情緒\n#ヰ世界情緒美術部 https://t.co/h3TIHAh7Jl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-27T06:47:27.000Z",
+        "description": "",
+        "id": "1883768460993552385",
+        "name": "上官朝日",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1883768766041034752/X6JGEA2V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 16,
+          "like_count": 482,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 6
+        },
+        "username": "XiShangguan",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-25T13:53:10.000Z",
+        "description": "只會一些兒童塗鴉 ‖ 觀測者 ‖ 偶爾畫畫情緒 ‖ 對不起，我是陰暗B\n❌AI学习使用素材禁止❌",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/57773879",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/57773879",
+                "start": 0,
+                "url": "https://t.co/yRktQK2zUR"
+              }
+            ]
+          }
+        },
+        "id": "1584905788195508224",
+        "location": "神椿市",
+        "name": "狐狸没钱花了",
+        "pinned_tweet_id": "1877461801744715902",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1708903568198258688/pvMARqcN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4807,
+          "following_count": 204,
+          "like_count": 1950,
+          "listed_count": 19,
+          "media_count": 160,
+          "tweet_count": 206
+        },
+        "url": "https://t.co/yRktQK2zUR",
+        "username": "Yo_kitsune",
+        "verified": false
+      }
+    ]
+  }
+}

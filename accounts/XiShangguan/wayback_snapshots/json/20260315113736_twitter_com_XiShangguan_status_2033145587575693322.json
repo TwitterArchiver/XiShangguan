@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1883768460993552385",
+    "conversation_id": "2032961019635741074",
+    "created_at": "2026-03-15T11:37:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-15T12:37:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033145587575693322"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2032144916294385664",
+          "start": 0,
+          "username": "Lightk0yu"
+        },
+        {
+          "end": 20,
+          "id": "1500855672480489475",
+          "start": 11,
+          "username": "Usep_111"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033145587575693322",
+    "in_reply_to_user_id": "2032144916294385664",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033065411839930432",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lightk0yu @Usep_111 怎么抢我的话😡"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1883768460993552385",
+        "conversation_id": "2032961019635741074",
+        "created_at": "2026-03-15T11:37:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-15T12:37:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033145587575693322"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2032144916294385664",
+              "start": 0,
+              "username": "Lightk0yu"
+            },
+            {
+              "end": 20,
+              "id": "1500855672480489475",
+              "start": 11,
+              "username": "Usep_111"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033145587575693322",
+        "in_reply_to_user_id": "2032144916294385664",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033065411839930432",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lightk0yu @Usep_111 怎么抢我的话😡"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032144916294385664",
+        "conversation_id": "2032961019635741074",
+        "created_at": "2026-03-15T06:19:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-15T07:19:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033065411839930432"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1500855672480489475",
+              "start": 0,
+              "username": "Usep_111"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033065411839930432",
+        "in_reply_to_user_id": "1500855672480489475",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 125,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032961019635741074",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Usep_111 想买pr直说（）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-27T06:47:27.000Z",
+        "description": "目光不必在我这里停留",
+        "id": "1883768460993552385",
+        "name": "上官朝日",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029345916734545920/_WrLVa1P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 27,
+          "like_count": 1501,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 148
+        },
+        "username": "XiShangguan",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-12T17:22:54.000Z",
+        "description": "",
+        "id": "2032144916294385664",
+        "name": "Light",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032194232811937792/YRevzqWZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 19,
+          "like_count": 208,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 148
+        },
+        "username": "Lightk0yu",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-07T15:27:45.000Z",
+        "description": "请息交以绝游",
+        "id": "1500855672480489475",
+        "name": "卡塔丽娜",
+        "pinned_tweet_id": "1997003294007591248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028113867411517440/lN0F3xhh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 378,
+          "following_count": 610,
+          "like_count": 2157,
+          "listed_count": 0,
+          "media_count": 102,
+          "tweet_count": 988
+        },
+        "username": "Usep_111",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2044590861766516736"
+      ]
+    },
+    "author_id": "1883768460993552385",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2044590864992006330",
+    "created_at": "2026-04-16T01:37:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-16T02:37:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044590864992006330"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/qmt3oUgc78",
+          "end": 33,
+          "expanded_url": "https://x.com/XiShangguan/status/2044590864992006330/photo/1",
+          "media_key": "3_2044590861766516736",
+          "start": 10,
+          "url": "https://t.co/qmt3oUgc78"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044590864992006330",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我现在什么都不缺了 https://t.co/qmt3oUgc78"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2044590861766516736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF_YjlqaYAAJ2iZ.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2044590861766516736"
+          ]
+        },
+        "author_id": "1883768460993552385",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2044590864992006330",
+        "created_at": "2026-04-16T01:37:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T02:37:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044590864992006330"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qmt3oUgc78",
+              "end": 33,
+              "expanded_url": "https://x.com/XiShangguan/status/2044590864992006330/photo/1",
+              "media_key": "3_2044590861766516736",
+              "start": 10,
+              "url": "https://t.co/qmt3oUgc78"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044590864992006330",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我现在什么都不缺了 https://t.co/qmt3oUgc78"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-27T06:47:27.000Z",
+        "description": "你好，这里是上官曦✞08年生✞ODER✞pr单推✞INFP✞查成分互fo，忘记麻烦私信✞二次元✞政治无感✞只听日语歌✞术术人✞xp粉毛✞不善社交✞日语初学✞自毁倾向✞重度抑郁✞躯体化严重✞随时会死🕯️✞性别未知✞喜欢花譜✞上官朝日的日不是动词😡✞在线时间被压榨，没能及时回信息抱歉✞拒绝线下✞推アトリ✞温柔对待每个人",
+        "id": "1883768460993552385",
+        "location": "乌托邦",
+        "name": "上官朝日",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033812687277461507/y7sGn9v7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 132,
+          "following_count": 169,
+          "like_count": 5082,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 1089
+        },
+        "username": "XiShangguan",
+        "verified": false
+      }
+    ]
+  }
+}

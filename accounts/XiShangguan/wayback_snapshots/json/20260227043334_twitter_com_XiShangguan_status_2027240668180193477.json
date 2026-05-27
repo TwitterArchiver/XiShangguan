@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1883768460993552385",
+    "conversation_id": "2027070377344766008",
+    "created_at": "2026-02-27T04:33:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-27T05:33:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027240668180193477"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1905864308090978304",
+          "start": 0,
+          "username": "hnsho244382"
+        },
+        {
+          "end": 24,
+          "id": "1569966034035134464",
+          "start": 13,
+          "username": "sukixi_ovo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027240668180193477",
+    "in_reply_to_user_id": "1905864308090978304",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027167649961263481",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hnsho244382 @sukixi_ovo 我真没招了(✘_✘)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1883768460993552385",
+        "conversation_id": "2027070377344766008",
+        "created_at": "2026-02-27T04:33:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T05:33:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027240668180193477"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1905864308090978304",
+              "start": 0,
+              "username": "hnsho244382"
+            },
+            {
+              "end": 24,
+              "id": "1569966034035134464",
+              "start": 13,
+              "username": "sukixi_ovo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027240668180193477",
+        "in_reply_to_user_id": "1905864308090978304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027167649961263481",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hnsho244382 @sukixi_ovo 我真没招了(✘_✘)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1905864308090978304",
+        "conversation_id": "2027070377344766008",
+        "created_at": "2026-02-26T23:43:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T00:43:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027167649961263481"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1569966034035134464",
+              "start": 0,
+              "username": "sukixi_ovo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027167649961263481",
+        "in_reply_to_user_id": "1569966034035134464",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 237,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027070377344766008",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sukixi_ovo 割一堆福干啥"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-27T06:47:27.000Z",
+        "description": "花譜大好き",
+        "id": "1883768460993552385",
+        "name": "上官朝日",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1938304574810689537/M2MJpU6T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 25,
+          "like_count": 1244,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 62
+        },
+        "username": "XiShangguan",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-29T06:07:33.000Z",
+        "description": "",
+        "id": "1905864308090978304",
+        "location": "Japan",
+        "name": "涵少",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963638143007297539/-WXUGKS-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 8,
+          "like_count": 254,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 21
+        },
+        "username": "hnsho244382",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-14T08:27:37.000Z",
+        "description": "小惜/セキ丨東京丨病み垢丨承認欲求｜shtwt丨我只想變成透明消失在這個世界和所有人的視線裡",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linkbio.co/70514062Sd9aZ",
+                "end": 23,
+                "expanded_url": "https://linkbio.co/70514062Sd9aZ",
+                "start": 0,
+                "url": "https://t.co/W6VG0bHf1j"
+              }
+            ]
+          }
+        },
+        "id": "1569966034035134464",
+        "location": "地獄の靈魂擺渡人",
+        "name": "可塑性人格",
+        "pinned_tweet_id": "1951721325242024277",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024145896255156224/xHJ5RTev_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8199,
+          "following_count": 165,
+          "like_count": 1174,
+          "listed_count": 11,
+          "media_count": 181,
+          "tweet_count": 906
+        },
+        "url": "https://t.co/W6VG0bHf1j",
+        "username": "sukixi_ovo",
+        "verified": true
+      }
+    ]
+  }
+}

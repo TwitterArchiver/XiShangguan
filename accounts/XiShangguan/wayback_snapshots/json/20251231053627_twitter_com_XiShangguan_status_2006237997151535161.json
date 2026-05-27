@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1883768460993552385",
+    "conversation_id": "2005826930285916618",
+    "created_at": "2025-12-31T05:36:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-31T06:36:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2006237997151535161"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1925552530735669248",
+          "start": 0,
+          "username": "Grecia0012"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2006237997151535161",
+    "in_reply_to_user_id": "1925552530735669248",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2005826930285916618",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Grecia0012 我也不得劲😭"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 675,
+        "media_key": "3_2005826921142341632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9Yg9Rua0AAVMIO.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1883768460993552385",
+        "conversation_id": "2005826930285916618",
+        "created_at": "2025-12-31T05:36:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-31T06:36:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2006237997151535161"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1925552530735669248",
+              "start": 0,
+              "username": "Grecia0012"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006237997151535161",
+        "in_reply_to_user_id": "1925552530735669248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2005826930285916618",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Grecia0012 我也不得劲😭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2005826921142341632"
+          ]
+        },
+        "author_id": "1925552530735669248",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2005826930285916618",
+        "created_at": "2025-12-30T02:23:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-30T03:23:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2005826930285916618"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FSOnlserTW",
+              "end": 50,
+              "expanded_url": "https://x.com/Grecia0012/status/2005826930285916618/photo/1",
+              "media_key": "3_2005826921142341632",
+              "start": 27,
+              "url": "https://t.co/FSOnlserTW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005826930285916618",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 86,
+          "impression_count": 63501,
+          "like_count": 1499,
+          "quote_count": 6,
+          "reply_count": 14,
+          "retweet_count": 63
+        },
+        "reply_settings": "everyone",
+        "text": "心理委员呢😭心理委员我不得劲😭心理委员！！！！😭😭😭 https://t.co/FSOnlserTW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-27T06:47:27.000Z",
+        "description": "",
+        "id": "1883768460993552385",
+        "name": "上官朝日",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1938304574810689537/M2MJpU6T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 24,
+          "like_count": 839,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 14
+        },
+        "username": "XiShangguan",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-22T14:01:31.000Z",
+        "description": "Здравствуйте，меня зовут Kiperina",
+        "id": "1925552530735669248",
+        "location": "21世纪",
+        "name": "Алина-Медвежова🇫🇮🌹",
+        "pinned_tweet_id": "2003991452767211549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003397417379774464/AHeHXFmz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 369,
+          "following_count": 397,
+          "like_count": 3724,
+          "listed_count": 1,
+          "media_count": 78,
+          "tweet_count": 1266
+        },
+        "username": "Grecia0012",
+        "verified": false
+      }
+    ]
+  }
+}

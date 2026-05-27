@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1883768460993552385",
+    "conversation_id": "1937828084604174363",
+    "created_at": "2025-06-26T18:31:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-26T19:31:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1938304232815579364"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1404475651961229313",
+          "start": 0,
+          "username": "ShiraishiKanoya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1938304232815579364",
+    "in_reply_to_user_id": "1404475651961229313",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1937828084604174363",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ShiraishiKanoya 情绪变化好大呢"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1064,
+        "media_key": "3_1937828080682455040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuSMX1Da0AAusdT.jpg",
+        "width": 1310
+      },
+      {
+        "height": 1017,
+        "media_key": "3_1937828080976084992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuSMX2JbQAAufQG.jpg",
+        "width": 1074
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1883768460993552385",
+        "conversation_id": "1937828084604174363",
+        "created_at": "2025-06-26T18:31:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-26T19:31:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938304232815579364"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1404475651961229313",
+              "start": 0,
+              "username": "ShiraishiKanoya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938304232815579364",
+        "in_reply_to_user_id": "1404475651961229313",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1937828084604174363",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ShiraishiKanoya 情绪变化好大呢"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1937828080682455040",
+            "3_1937828080976084992"
+          ]
+        },
+        "author_id": "1404475651961229313",
+        "conversation_id": "1937828084604174363",
+        "created_at": "2025-06-25T10:59:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-25T11:59:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1937828084604174363"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3ms8JR69Nt",
+              "end": 29,
+              "expanded_url": "https://x.com/ShiraishiKanoya/status/1937828084604174363/photo/1",
+              "media_key": "3_1937828080682455040",
+              "start": 6,
+              "url": "https://t.co/3ms8JR69Nt"
+            },
+            {
+              "display_url": "pic.x.com/3ms8JR69Nt",
+              "end": 29,
+              "expanded_url": "https://x.com/ShiraishiKanoya/status/1937828084604174363/photo/1",
+              "media_key": "3_1937828080976084992",
+              "start": 6,
+              "url": "https://t.co/3ms8JR69Nt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937828084604174363",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 42,
+          "impression_count": 13199,
+          "like_count": 742,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 67
+        },
+        "reply_settings": "everyone",
+        "text": "4年吗.. https://t.co/3ms8JR69Nt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-27T06:47:27.000Z",
+        "description": "",
+        "id": "1883768460993552385",
+        "name": "上官朝日",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1883768766041034752/X6JGEA2V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 22,
+          "like_count": 655,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 9
+        },
+        "username": "XiShangguan",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-14T16:27:57.000Z",
+        "description": "一般路过画师，画点自己喜欢的事物。\n夜行性生物    【委托征集中】\n依頼募集しています/DMでご連絡ください",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/11803460",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/11803460",
+                "start": 0,
+                "url": "https://t.co/jCvF2b0eJ6"
+              }
+            ]
+          }
+        },
+        "id": "1404475651961229313",
+        "name": "白石鹿野",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1563933269510754305/5zClr7Hb_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7609,
+          "following_count": 356,
+          "like_count": 6203,
+          "listed_count": 70,
+          "media_count": 210,
+          "tweet_count": 1222
+        },
+        "url": "https://t.co/jCvF2b0eJ6",
+        "username": "ShiraishiKanoya",
+        "verified": false
+      }
+    ]
+  }
+}

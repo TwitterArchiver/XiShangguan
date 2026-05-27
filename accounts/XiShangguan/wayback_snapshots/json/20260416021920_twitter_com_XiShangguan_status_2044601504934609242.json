@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1883768460993552385",
+    "conversation_id": "2044597966246396150",
+    "created_at": "2026-04-16T02:19:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-16T03:19:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044601504934609242"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1430052755352166401",
+          "start": 0,
+          "username": "Wendy_Ai2005"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044601504934609242",
+    "in_reply_to_user_id": "1430052755352166401",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044601374185578599",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Wendy_Ai2005 知道啦，谢谢宝宝"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1883768460993552385",
+        "conversation_id": "2044597966246396150",
+        "created_at": "2026-04-16T02:19:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T03:19:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044601504934609242"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1430052755352166401",
+              "start": 0,
+              "username": "Wendy_Ai2005"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044601504934609242",
+        "in_reply_to_user_id": "1430052755352166401",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044601374185578599",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Wendy_Ai2005 知道啦，谢谢宝宝"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1430052755352166401",
+        "conversation_id": "2044597966246396150",
+        "created_at": "2026-04-16T02:18:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T03:18:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044601374185578599"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1883768460993552385",
+              "start": 0,
+              "username": "XiShangguan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044601374185578599",
+        "in_reply_to_user_id": "1883768460993552385",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044597966246396150",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XiShangguan 要涂油脂基底的抗生素在表面保护下，就不容易裂开了。比如百多邦之类的(^_−)−☆"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-27T06:47:27.000Z",
+        "description": "你好，这里是上官曦✞08年生✞ODER✞pr单推✞INFP✞查成分互fo，忘记麻烦私信✞二次元✞政治无感✞只听日语歌✞术术人✞xp粉毛✞不善社交✞日语初学✞自毁倾向✞重度抑郁✞躯体化严重✞随时会死🕯️✞性别未知✞喜欢花譜✞上官朝日的日不是动词😡✞在线时间被压榨，没能及时回信息抱歉✞拒绝线下✞推アトリ",
+        "id": "1883768460993552385",
+        "location": "乌托邦",
+        "name": "上官朝日",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033812687277461507/y7sGn9v7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 133,
+          "following_count": 170,
+          "like_count": 5132,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 1100
+        },
+        "username": "XiShangguan",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-24T06:22:15.000Z",
+        "description": "🇨🇳FromChina/05,185,65/🏫HIE/📡BI7AWY/🟪MTX间断含糖🍥/😝说话是狗屁不通文章生成器/🏥休学8年/ASD+ADHD+STPD💊/在读机械狗一枚/全科通识考试弱智，应试教育失败品/🆗机械⚙️电气⚡️天文🔭地理🗺️医学🩺生物🧫瑟瑟🥵/❎历史🏺政治📚脑残🤪",
+        "id": "1430052755352166401",
+        "location": "距离你2.8km",
+        "name": "安雯雨🌧️🌧️Wendy_Ai🍥～🟡⚪️🟣⚫️",
+        "pinned_tweet_id": "2043340847773855790",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033212769781387264/ROqqnl7h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 265,
+          "following_count": 688,
+          "like_count": 2680,
+          "listed_count": 0,
+          "media_count": 180,
+          "tweet_count": 1119
+        },
+        "url": "",
+        "username": "Wendy_Ai2005",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-24T06:22:15.000Z",
+        "description": "🇨🇳FromChina/05,185,65/🏫HIE/📡BI7AWY/🟪MTX间断含糖🍥/😝说话是狗屁不通文章生成器/🏥休学8年/ASD+ADHD+STPD💊/在读机械狗一枚/全科通识考试弱智，应试教育失败品/🆗机械⚙️电气⚡️天文🔭地理🗺️医学🩺生物🧫瑟瑟🥵/❎历史🏺政治📚脑残🤪",
+        "id": "1430052755352166401",
+        "location": "距离你2.8km",
+        "name": "安雯雨🌧️🌧️Wendy_Ai🍥～🟡⚪️🟣⚫️",
+        "pinned_tweet_id": "2043340847773855790",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033212769781387264/ROqqnl7h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 265,
+          "following_count": 688,
+          "like_count": 2680,
+          "listed_count": 0,
+          "media_count": 180,
+          "tweet_count": 1119
+        },
+        "username": "Wendy_Ai2005",
+        "verified": false
+      }
+    ]
+  }
+}
