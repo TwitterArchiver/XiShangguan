@@ -5,5 +5,14 @@
   "location": "乌托邦",
   "link": "",
   "avatar": "avatar/avatar.jpg",
-  "banner": "avatar/1500x500.jpg"
+  "banner": "avatar/1500x500.jpg",
+  "bio_entities": {
+    "mentions": [
+      {
+        "end": 138,
+        "start": 123,
+        "username": "tngxngxng13171"
+      }
+    ]
+  }
 }
