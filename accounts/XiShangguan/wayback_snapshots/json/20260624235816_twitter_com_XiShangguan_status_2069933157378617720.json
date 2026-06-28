@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1883768460993552385",
+    "conversation_id": "2069719896225952169",
+    "created_at": "2026-06-24T23:58:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T00:58:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069933157378617720"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2055095022425722880",
+          "start": 0,
+          "username": "UnkMtX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069933157378617720",
+    "in_reply_to_user_id": "2055095022425722880",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069719896225952169",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@UnkMtX 偷偷设敬🤤"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 288,
+        "media_key": "3_2069719876759965696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLkfQxbX0AAOCpX.jpg",
+        "width": 360
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1883768460993552385",
+        "conversation_id": "2069719896225952169",
+        "created_at": "2026-06-24T23:58:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T00:58:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069933157378617720"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2055095022425722880",
+              "start": 0,
+              "username": "UnkMtX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069933157378617720",
+        "in_reply_to_user_id": "2055095022425722880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069719896225952169",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@UnkMtX 偷偷设敬🤤"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069719876759965696"
+          ]
+        },
+        "author_id": "2055095022425722880",
+        "conversation_id": "2069719896225952169",
+        "created_at": "2026-06-24T09:50:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T10:50:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069719896225952169"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PpGo3df3BX",
+              "end": 28,
+              "expanded_url": "https://x.com/UnkMtX/status/2069719896225952169/photo/1",
+              "media_key": "3_2069719876759965696",
+              "start": 5,
+              "url": "https://t.co/PpGo3df3BX"
+            },
+            {
+              "display_url": "x.com/inline_int/sta…",
+              "end": 52,
+              "expanded_url": "https://twitter.com/inline_int/status/2069452627721568610",
+              "start": 29,
+              "url": "https://t.co/6nvEDDKQog"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069719896225952169",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 599,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069452627721568610",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "我也来😋 https://t.co/PpGo3df3BX https://t.co/6nvEDDKQog"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-27T06:47:27.000Z",
+        "description": "这里是上官曦✞08年生✞OD✞性冷淡✞ISFP✞查成分互fo，忘记麻烦私信✞私宅一枚✞喜欢日轻✞负能量⚠✞碎碎念✞术术人✞xp粉毛✞自毁倾向✞重度抑郁✞躯体化严重✞随时会死🕯️✞性别未知✞喜欢花譜✞至死追随@tngxngxng13171✞没能及时回信息致歉✞拒绝线下✞友跨✞精神科入住",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 118,
+                "start": 103,
+                "username": "tngxngxng13171"
+              }
+            ]
+          }
+        },
+        "id": "1883768460993552385",
+        "location": "乌托邦",
+        "name": "上官朝日",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033812687277461507/y7sGn9v7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 285,
+          "following_count": 271,
+          "like_count": 8569,
+          "listed_count": 0,
+          "media_count": 134,
+          "tweet_count": 2156
+        },
+        "url": "",
+        "username": "XiShangguan",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-15T01:17:01.000Z",
+        "description": "被关精卫中，不发帖就是没手机了😭|\n前世@UnkXyn|\nMTX/F?🏳️‍⚧️|HRT🍥01.28.2026，被迫断糖06.06.2026|无证|家暴党😭|\n🎂11.13.2011🍰|暂时无法Od💊|159cm52kg|INFP-T|重度社恐|\n对象💖@Lvmaosamaovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 20,
+                "username": "UnkXyn"
+              },
+              {
+                "end": 140,
+                "start": 127,
+                "username": "Lvmaosamaovo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/unk1111131",
+                "end": 23,
+                "expanded_url": "http://ngl.link/unk1111131",
+                "start": 0,
+                "url": "https://t.co/AjAoii6VxE"
+              }
+            ]
+          }
+        },
+        "id": "2055095022425722880",
+        "location": "武汉市精神卫生中心(二七院区)🤯",
+        "name": "✟𝗨𝗻𝗸✟🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060807051815854080/KA8UAH6G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1351,
+          "following_count": 1111,
+          "like_count": 2830,
+          "listed_count": 15,
+          "media_count": 97,
+          "tweet_count": 693
+        },
+        "url": "https://t.co/AjAoii6VxE",
+        "username": "UnkMtX",
+        "verified": true
+      }
+    ]
+  }
+}
