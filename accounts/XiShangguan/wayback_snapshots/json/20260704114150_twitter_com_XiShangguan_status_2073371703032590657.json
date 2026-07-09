@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1883768460993552385",
+    "conversation_id": "2073354148918259917",
+    "created_at": "2026-07-04T11:41:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T12:41:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073371703032590657"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1440983154131488774",
+          "start": 0,
+          "username": "daisy38193824"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073371703032590657",
+    "in_reply_to_user_id": "1440983154131488774",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073354148918259917",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@daisy38193824 抱抱"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2073354129586704384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMYImIOa0AA2-je.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1883768460993552385",
+        "conversation_id": "2073354148918259917",
+        "created_at": "2026-07-04T11:41:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T12:41:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073371703032590657"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1440983154131488774",
+              "start": 0,
+              "username": "daisy38193824"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073371703032590657",
+        "in_reply_to_user_id": "1440983154131488774",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073354148918259917",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@daisy38193824 抱抱"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073354129586704384"
+          ]
+        },
+        "author_id": "1440983154131488774",
+        "conversation_id": "2073354148918259917",
+        "created_at": "2026-07-04T10:32:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T11:32:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073354148918259917"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RQrvVgkNMz",
+              "end": 68,
+              "expanded_url": "https://x.com/daisy38193824/status/2073354148918259917/photo/1",
+              "media_key": "3_2073354129586704384",
+              "start": 45,
+              "url": "https://t.co/RQrvVgkNMz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073354148918259917",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 259,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我真他妈的是个胆小鬼..明明已经在天台上了…只差一步了就可以解脱了..却还是没有那个勇气 https://t.co/RQrvVgkNMz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-27T06:47:27.000Z",
+        "description": "这里是上官曦✞08年生✞OD✞性冷淡✞ISFP✞查成分互fo，忘记麻烦私信✞私宅一枚✞喜欢日轻✞负能量⚠✞碎碎念✞术术人✞xp粉毛✞自毁倾向✞重度抑郁✞躯体化严重✞随时会死🕯️✞性别未知✞喜欢花譜✞至死追随@tngxngxng13171✞没能及时回信息致歉✞拒绝线下✞友跨✞精神科入住",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 118,
+                "start": 103,
+                "username": "tngxngxng13171"
+              }
+            ]
+          }
+        },
+        "id": "1883768460993552385",
+        "location": "乌托邦",
+        "name": "上官朝日",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033812687277461507/y7sGn9v7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 285,
+          "following_count": 272,
+          "like_count": 8698,
+          "listed_count": 0,
+          "media_count": 137,
+          "tweet_count": 2177
+        },
+        "url": "",
+        "username": "XiShangguan",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-23T10:15:39.000Z",
+        "description": "无证含糖中|HRT：2026/3/19｜ INFP-T｜\n比较内向社恐｜喜欢可爱的小动物｜爱玩mc cs2 lol 各种galgame | 爱看治愈/治愈/催泪类型的动漫｜ 粤语/日语流行/摇滚/后摇/欧美流行/二次元/古典/爵士/金属｜TG：@FALLIN2064|匿名提问👇",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 133,
+                "start": 122,
+                "username": "FALLIN2064"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/fallin22938",
+                "end": 23,
+                "expanded_url": "https://ngl.link/fallin22938",
+                "start": 0,
+                "url": "https://t.co/wx8CXSpu18"
+              }
+            ]
+          }
+        },
+        "id": "1440983154131488774",
+        "location": "湖北省武汉市",
+        "name": "𝓕𝓪𝓵𝓵𝓲𝓷'🍥",
+        "pinned_tweet_id": "2070453103594524856",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072714947436703744/ou5BYij__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 941,
+          "following_count": 935,
+          "like_count": 3784,
+          "listed_count": 2,
+          "media_count": 227,
+          "tweet_count": 708
+        },
+        "url": "https://t.co/wx8CXSpu18",
+        "username": "daisy38193824",
+        "verified": false
+      }
+    ]
+  }
+}
