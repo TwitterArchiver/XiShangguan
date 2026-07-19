@@ -1,18 +1,11 @@
 {
   "name": "上官朝日",
   "username": "@XiShangguan",
-  "bio": "这里是上官曦✞08年生✞ODER✞性冷淡✞ISFP✞查成分互fo，忘记麻烦私信✞私宅一枚✞喜欢日轻✞负能量⚠✞碎碎念✞术术人✞xp粉毛✞自毁倾向✞重度抑郁✞躯体化严重✞随时会死🕯️✞性别未知✞喜欢花譜✞至死追随@tngxngxng13171✞没能及时回信息致歉✞拒绝线下✞友跨✞精神科入住",
+  "bio": "逃避那烂透了的人生",
   "location": "乌托邦",
   "link": "",
   "avatar": "avatar/avatar.jpg",
   "banner": "avatar/1500x500.jpg",
-  "bio_entities": {
-    "mentions": [
-      {
-        "end": 138,
-        "start": 123,
-        "username": "tngxngxng13171"
-      }
-    ]
-  }
+  "bio_entities": {},
+  "_avatar_source": "https://pbs.twimg.com/profile_images/2033812687277461507/y7sGn9v7_normal.jpg"
 }
