@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1883768460993552385",
+    "conversation_id": "2085065605359841571",
+    "created_at": "2026-08-06T05:13:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-06T06:13:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085232830716785064"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1955980103688790017",
+          "start": 0,
+          "username": "aaarjkk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085232830716785064",
+    "in_reply_to_user_id": "1955980103688790017",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085065605359841571",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aaarjkk 😨这么强？!"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2179,
+        "media_key": "3_2085065579644469248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO-kGPgaQAAj_UZ.jpg",
+        "width": 1667
+      },
+      {
+        "height": 2207,
+        "media_key": "3_2085065591099150336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO-kG6La0AAmTfN.jpg",
+        "width": 1660
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1883768460993552385",
+        "conversation_id": "2085065605359841571",
+        "created_at": "2026-08-06T05:13:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T06:13:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085232830716785064"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1955980103688790017",
+              "start": 0,
+              "username": "aaarjkk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085232830716785064",
+        "in_reply_to_user_id": "1955980103688790017",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085065605359841571",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aaarjkk 😨这么强？!"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085065579644469248",
+            "3_2085065591099150336"
+          ]
+        },
+        "author_id": "1955980103688790017",
+        "conversation_id": "2085065605359841571",
+        "created_at": "2026-08-05T18:09:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T19:09:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085065605359841571"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wpOPXaVSUW",
+              "end": 60,
+              "expanded_url": "https://x.com/aaarjkk/status/2085065605359841571/photo/1",
+              "media_key": "3_2085065579644469248",
+              "start": 37,
+              "url": "https://t.co/wpOPXaVSUW"
+            },
+            {
+              "display_url": "pic.x.com/wpOPXaVSUW",
+              "end": 60,
+              "expanded_url": "https://x.com/aaarjkk/status/2085065605359841571/photo/1",
+              "media_key": "3_2085065591099150336",
+              "start": 37,
+              "url": "https://t.co/wpOPXaVSUW"
+            },
+            {
+              "display_url": "x.com/aaarjkk/status…",
+              "end": 84,
+              "expanded_url": "https://twitter.com/aaarjkk/status/2085044242616095012",
+              "start": 61,
+              "url": "https://t.co/bsTHmPLe17"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085065605359841571",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 790,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085044242616095012",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "3个多小时了还没干，而且好痒好痒，我真的害怕了，不敢拉尿了，呜呜怎么办啊 https://t.co/wpOPXaVSUW https://t.co/bsTHmPLe17"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-27T06:47:27.000Z",
+        "description": "逃避那烂透了的人生",
+        "id": "1883768460993552385",
+        "location": "乌托邦",
+        "name": "上官朝日",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033812687277461507/y7sGn9v7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 282,
+          "following_count": 263,
+          "like_count": 8802,
+          "listed_count": 0,
+          "media_count": 138,
+          "tweet_count": 2192
+        },
+        "url": "",
+        "username": "XiShangguan",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-14T13:09:47.000Z",
+        "description": "▯活在幻想中▯🩵🩷🤍🩷🩵▯😉希望咱们每天都能开开心心的▯成绩倒数▯小号@a0brjkk▯查成分互Follow(?)▯🎂10/14/2010",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 36,
+                "username": "a0brjkk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/dadademaowo?We…",
+                "end": 23,
+                "expanded_url": "https://telegram.me/dadademaowo?WelcomeToJoin",
+                "start": 0,
+                "url": "https://t.co/jvZNExuURv"
+              }
+            ]
+          }
+        },
+        "id": "1955980103688790017",
+        "name": "貓貓喵喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064931800351473664/7Xm1E2Mi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1188,
+          "following_count": 1163,
+          "like_count": 27109,
+          "listed_count": 5,
+          "media_count": 610,
+          "tweet_count": 3700
+        },
+        "url": "https://t.co/jvZNExuURv",
+        "username": "aaarjkk",
+        "verified": true
+      }
+    ]
+  }
+}
