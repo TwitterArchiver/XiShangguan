@@ -1,0 +1,288 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1883768460993552385",
+    "conversation_id": "2098402805635805668",
+    "created_at": "2026-09-12T08:00:14.000Z",
+    "display_text_range": [
+      15,
+      16
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-12T09:00:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098683087630762020"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1943905916765843459",
+          "start": 0,
+          "username": "1080bus_ereel"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098683087630762020",
+    "in_reply_to_user_id": "1943905916765843459",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098402805635805668",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@1080bus_ereel 😂"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1000,
+        "media_key": "3_2098402799994474498",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR8GOpFbEAIv8m5.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1883768460993552385",
+        "conversation_id": "2098402805635805668",
+        "created_at": "2026-09-12T08:00:14.000Z",
+        "display_text_range": [
+          15,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T09:00:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098683087630762020"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1943905916765843459",
+              "start": 0,
+              "username": "1080bus_ereel"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098683087630762020",
+        "in_reply_to_user_id": "1943905916765843459",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098402805635805668",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@1080bus_ereel 😂"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2098402799994474498"
+          ]
+        },
+        "author_id": "1943905916765843459",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1418662307442221063",
+              "name": "Kaf"
+            }
+          },
+          {
+            "domain": {
+              "description": "Influencers who create content on digital platforms",
+              "id": "120",
+              "name": "Digital Creator"
+            },
+            "entity": {
+              "id": "1418662307442221063",
+              "name": "Kaf"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247288073542463488",
+              "name": "Virtual YouTubers"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1418662307442221063",
+              "name": "Kaf"
+            }
+          }
+        ],
+        "conversation_id": "2098402805635805668",
+        "created_at": "2026-09-11T13:26:29.000Z",
+        "display_text_range": [
+          0,
+          10
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T14:26:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098402805635805668"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 10,
+              "start": 4,
+              "tag": "花譜美術部"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/SckDn4cKeJ",
+              "end": 34,
+              "expanded_url": "https://x.com/1080bus_ereel/status/2098402805635805668/photo/1",
+              "media_key": "3_2098402799994474498",
+              "start": 11,
+              "url": "https://t.co/SckDn4cKeJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098402805635805668",
+        "lang": "und",
+        "media_metadata": [
+          {
+            "media_key": "3_2098402799994474498"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 19,
+          "impression_count": 7111,
+          "like_count": 513,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 55
+        },
+        "reply_settings": "everyone",
+        "text": "KAF\n#花譜美術部 https://t.co/SckDn4cKeJ"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-27T06:47:27.000Z",
+        "description": "逃避那烂透了的人生",
+        "id": "1883768460993552385",
+        "is_identity_verified": false,
+        "location": "乌托邦",
+        "most_recent_tweet_id": "2098683087630762020",
+        "name": "上官朝日",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1883768460993552385/1772792631",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033812687277461507/y7sGn9v7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 268,
+          "following_count": 256,
+          "like_count": 8590,
+          "listed_count": 0,
+          "media_count": 138,
+          "tweet_count": 2214
+        },
+        "url": "",
+        "username": "XiShangguan",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-07-12T05:32:13.000Z",
+        "description": "♂ 観測者(2025/10/29〜)&音ゲーマー\n脳内の90％が花譜、花譜以外はミリしら(ちょっと馬骨)\n投稿の内容で調べるのによくchatGPTなどAI使います！苦手な方ご承知を！\n花譜/花組/観測者ピクセルアート部/平沢進/V.W.P/maimai/malody",
+        "id": "1943905916765843459",
+        "is_identity_verified": false,
+        "location": "東京 多摩の方",
+        "most_recent_tweet_id": "2098674680525930986",
+        "name": "りーるくん@花組 / 宿/深2ライブ現地",
+        "pinned_tweet_id": "2087767783530770816",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1943905916765843459/1786798555",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086952698977624064/MoQIWFSS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 867,
+          "following_count": 1233,
+          "like_count": 54853,
+          "listed_count": 0,
+          "media_count": 962,
+          "tweet_count": 5431
+        },
+        "url": "",
+        "username": "1080bus_ereel",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

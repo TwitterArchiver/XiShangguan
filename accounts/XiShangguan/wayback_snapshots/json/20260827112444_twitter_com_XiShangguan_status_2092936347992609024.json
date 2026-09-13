@@ -1,0 +1,324 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1883768460993552385",
+    "conversation_id": "2092618456499966280",
+    "created_at": "2026-08-27T11:24:44.000Z",
+    "display_text_range": [
+      34,
+      41
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-27T12:24:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092936347992609024"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1677210102",
+          "start": 0,
+          "username": "nicoledxox3"
+        },
+        {
+          "end": 24,
+          "id": "303750333",
+          "start": 13,
+          "username": "amyLbolton"
+        },
+        {
+          "end": 33,
+          "id": "757477239042834432",
+          "start": 25,
+          "username": "AliIsld"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092936347992609024",
+    "in_reply_to_user_id": "1677210102",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092912956417904829",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nicoledxox3 @amyLbolton @AliIsld 这评论区真神了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1883768460993552385",
+        "conversation_id": "2092618456499966280",
+        "created_at": "2026-08-27T11:24:44.000Z",
+        "display_text_range": [
+          34,
+          41
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T12:24:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092936347992609024"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1677210102",
+              "start": 0,
+              "username": "nicoledxox3"
+            },
+            {
+              "end": 24,
+              "id": "303750333",
+              "start": 13,
+              "username": "amyLbolton"
+            },
+            {
+              "end": 33,
+              "id": "757477239042834432",
+              "start": 25,
+              "username": "AliIsld"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092936347992609024",
+        "in_reply_to_user_id": "1677210102",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092912956417904829",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nicoledxox3 @amyLbolton @AliIsld 这评论区真神了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1677210102",
+        "conversation_id": "2092618456499966280",
+        "created_at": "2026-08-27T09:51:47.000Z",
+        "display_text_range": [
+          12,
+          40
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T10:51:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092912956417904829"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "303750333",
+              "start": 0,
+              "username": "amyLbolton"
+            },
+            {
+              "end": 37,
+              "id": "757477239042834432",
+              "start": 29,
+              "username": "AliIsld"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092912956417904829",
+        "in_reply_to_user_id": "303750333",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 5154,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092618456499966280",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amyLbolton 30+果然太涩了ej 我真顶不住 @AliIsld 8k"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-27T06:47:27.000Z",
+        "description": "逃避那烂透了的人生",
+        "id": "1883768460993552385",
+        "is_identity_verified": false,
+        "location": "乌托邦",
+        "most_recent_tweet_id": "2092936347992609024",
+        "name": "上官朝日",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1883768460993552385/1772792631",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033812687277461507/y7sGn9v7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 270,
+          "following_count": 253,
+          "like_count": 8806,
+          "listed_count": 0,
+          "media_count": 138,
+          "tweet_count": 2207
+        },
+        "url": "",
+        "username": "XiShangguan",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2013-08-17T03:35:22.000Z",
+        "description": "👩🏼‍🏫~💃~🧜🏼‍♀️",
+        "id": "1677210102",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092913404008870080",
+        "name": "ηιcσιε🦋✨",
+        "pinned_tweet_id": "1217263749826076677",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1677210102/1663886607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1573080515414032385/WvggogR7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 305,
+          "following_count": 466,
+          "like_count": 13316,
+          "listed_count": 2,
+          "media_count": 369,
+          "tweet_count": 7134
+        },
+        "url": "",
+        "username": "nicoledxox3",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2011-05-23T11:09:38.000Z",
+        "description": "",
+        "id": "303750333",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092618456499966280",
+        "name": "恰恰车厘子",
+        "pinned_tweet_id": "2092604026886271061",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092601481568636928/GzxdX1Dh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 381,
+          "following_count": 984,
+          "like_count": 4814,
+          "listed_count": 7,
+          "media_count": 312,
+          "tweet_count": 7726
+        },
+        "url": "",
+        "username": "amyLbolton",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2016-07-25T07:27:01.000Z",
+        "description": "90后宝妈一枚 生完孩子之后欲望越来越大 更明白自己需要什么 找一个没人的地方发泄一下自己 喜欢成熟有素质的男人，一上来发恶心照片的人，拉黑。 希望我们有更多的故事发生~\n本人tg✈https://t.co/vi7lg0swsW",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/tiantian401",
+                "end": 114,
+                "expanded_url": "https://t.me/tiantian401",
+                "start": 91,
+                "url": "https://t.co/vi7lg0swsW"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "n6a5.top",
+                "end": 23,
+                "expanded_url": "https://n6a5.top",
+                "start": 0,
+                "url": "https://t.co/YOyNkzoP9n"
+              }
+            ]
+          }
+        },
+        "id": "757477239042834432",
+        "is_identity_verified": false,
+        "location": "5km               已入驻X官方约啪平台👉",
+        "most_recent_tweet_id": "2092834647055155254",
+        "name": "天天妈妈☀",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092833590228967424/CktUE1aw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 86,
+          "following_count": 403,
+          "like_count": 4,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 11
+        },
+        "url": "https://t.co/YOyNkzoP9n",
+        "username": "AliIsld",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
